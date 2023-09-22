@@ -1,0 +1,30 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #3498DB ;
+  color: white;
+  font-size: 30px;
+}
+
+.text-box h1 {
+        font-size: 35px;        
+    }
+    
+.text-box p {
+     font-size: 20px;
+     margin-left: 7%;
+    }
+    
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #474D5B;
+  color: white;
+  text-align: center;
+}
+
+
+
+
